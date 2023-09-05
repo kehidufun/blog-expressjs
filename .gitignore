@@ -1,3 +1,7 @@
 node_modules/
+<<<<<<< HEAD
 .env
 .gitignore
+=======
+.env
+>>>>>>> 56ee4e8bd0b9c541e64eb9a058bd29909f57fff0
